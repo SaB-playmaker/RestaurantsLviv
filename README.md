@@ -1,3 +1,3 @@
-SQLite + Android - Complete Tutorial
+https://developers.google.com/identity/sign-in/android/start-integrating
 
-Note: Video tutorials will be available on my Youtube channel (Stevdza-San) soon.
+
