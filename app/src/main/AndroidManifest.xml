@@ -22,7 +22,8 @@
             android:label="Add Restaurant"
             android:parentActivityName="com.restaurants.lviv.restLvivApplication.MainActivity" />
 
-
+        <activity android:name=".CommentsActivity" />
+        <activity android:name=".RVActivity" />
         <activity
             android:name="com.restaurants.lviv.restLvivApplication.MainActivity"
             android:label="Restaurants Lviv"

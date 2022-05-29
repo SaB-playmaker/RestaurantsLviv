@@ -4,7 +4,7 @@ android {
     compileSdkVersion 30
     defaultConfig {
         applicationId "com.restaurants.lviv.restLvivApplication"
-        minSdkVersion 16
+        minSdkVersion 21
         targetSdkVersion 30
         versionCode 1
         versionName "1.0"
@@ -34,4 +34,11 @@ dependencies {
     implementation 'androidx.recyclerview:recyclerview:1.1.0'
     implementation 'com.google.android.material:material:1.0.0'
     implementation 'com.google.android.gms:play-services-auth:20.0.0'
+    implementation platform('com.google.firebase:firebase-bom:30.0.1')
+    implementation 'com.google.firebase:firebase-database'
+    implementation 'com.google.firebase:firebase-messaging:23.0.5'
+    implementation 'com.firebaseui:firebase-ui-database:4.3.2'
+    implementation 'androidx.recyclerview:recyclerview:1.0.0'
+    implementation "androidx.cardview:cardview:1.0.0"
 }
+apply plugin: 'com.google.gms.google-services'

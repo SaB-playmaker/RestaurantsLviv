@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "497111480437",
+    "firebase_url": "https://restaurants-lviv-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "restaurants-lviv",
+    "storage_bucket": "restaurants-lviv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497111480437:android:092593e38db486f5a6a03c",
+        "android_client_info": {
+          "package_name": "com.restaurants.lviv.restLvivApplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497111480437-6d6dgichqc4vmsdvuf0sqk4kt6cke99q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3P-y99OsfqA5KBCryma24Jb1HzjNEbho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497111480437-6d6dgichqc4vmsdvuf0sqk4kt6cke99q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
